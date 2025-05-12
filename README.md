@@ -90,7 +90,7 @@ Chaque ligne du fichier correspond à un lien trouvé pendant le crawling.
 
 ## 📜 Licence
 
-Ce projet est sous licence MIT.  
+Ce projet est sous **[licence MIT](https://github.com/PariaHRZ/web-crawler/blob/main/LICENSE)**.  
 Tu peux l'utiliser, le modifier et le partager librement.
 
 ---
